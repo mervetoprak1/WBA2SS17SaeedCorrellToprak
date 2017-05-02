@@ -1,0 +1,15 @@
+{
+  "name": "wbaprojekt",
+  "version": "0.0.1",
+  "description": "Ein WBA2 Projekt",
+  "main": "staedte.jason",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mervetoprak1/WBA2SS17SaeedCorrellToprak.git)"
+  },
+  "author": "Elena Correll",
+  "license": "BSD-2-Clause"
+}

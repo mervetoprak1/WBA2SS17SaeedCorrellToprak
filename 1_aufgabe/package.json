@@ -1,0 +1,15 @@
+{
+  "name": "1aufgabe",
+  "version": "0.0.1",
+  "description": "Das ist die LJSON Package Datei für die 2.Aufgabe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://\u001b[A\u001b[Aaufg2.js\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D(\u001b[C\u001b[C\u001b[C\u001b[Chttp://github.com\u0016/mervetoprak1/WBA2SS17SaeedCorrellToprak)"
+  },
+  "author": "Elena Correll",
+  "license": "ISC"
+}

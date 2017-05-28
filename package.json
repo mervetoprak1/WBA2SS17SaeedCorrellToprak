@@ -1,5 +1,11 @@
 {
 <<<<<<< HEAD
+  "name": "wbaproject",
+  "version": "0.0.1",
+  "description": "Ein Projekt",
+  "main": "staedte.json",
+=======
+<<<<<<< HEAD
   "name": "wbaprojekt",
   "version": "0.0.1",
   "description": "Ein WBA2 Projekt",
@@ -10,11 +16,17 @@
   "description": "Wba-Projekt",
   "main": "staedte.json",
 >>>>>>> 4bae86a5a44769d7c56f52cd17ea538376842321
+>>>>>>> 8b7d39cfc61fe290253c01a91b3c3885578c7724
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
+    "url": "git+https://github.com/mervetoprak1/WBA2SS17SaeedCorrellToprak.git"
+  },
+  "author": "MerveToprak",
+=======
 <<<<<<< HEAD
     "url": "(https://github.com/mervetoprak1/WBA2SS17SaeedCorrellToprak.git)"
   },
@@ -24,10 +36,14 @@
     "url": "git+https://github.com/mervetoprak1/WBA2SS17SaeedCorrellToprak.git"
   },
   "author": "Saeed",
+>>>>>>> 8b7d39cfc61fe290253c01a91b3c3885578c7724
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/mervetoprak1/WBA2SS17SaeedCorrellToprak/issues"
   },
   "homepage": "https://github.com/mervetoprak1/WBA2SS17SaeedCorrellToprak#readme"
+<<<<<<< HEAD
+=======
 >>>>>>> 4bae86a5a44769d7c56f52cd17ea538376842321
+>>>>>>> 8b7d39cfc61fe290253c01a91b3c3885578c7724
 }
